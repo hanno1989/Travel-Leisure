@@ -260,6 +260,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="fonts\Hertscar.JPG" />
     <Content Include="fonts\joker-harley-quinn-cosplayers-shot-in-australian-nightclub-1009396.jpg" />
@@ -273,6 +274,7 @@
     <Content Include="fonts\thumb6.jpg" />
     <Content Include="fonts\Venice-B.JPG" />
     <Content Include="fonts\Venice.jpg" />
+    <Content Include="Index.html" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Scripts\anime.min.js" />
